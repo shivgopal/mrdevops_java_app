@@ -6,6 +6,6 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "https://github.com/shivgopal01/devops_java_app.git"
+                url: "https://github.com/shivgopal/mrdevops_java_app.git"
             )
             }
